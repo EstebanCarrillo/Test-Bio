@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 The best name
+=======
+Esteban Carrillo
+Ezequiel Muniz
+>>>>>>> d1102259f18bd776b37da7da8b50bbc43080bb5d
